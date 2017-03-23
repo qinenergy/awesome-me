@@ -1,10 +1,10 @@
 # Reference Summary
 
-## [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/abs/1502.04681) 
+## [DNN-Based Prediction Model for Spatio-Temporal Data](http://dl.acm.org/citation.cfm?id=2997016) 
 
 ### Keywords
-+ Unsupervised learning
-+ LSTM Autoencoder
++ End-to-end model for Spatio-temporal data
++ Usage of domain knowledge
 
 ### Summary
 + Input Sequence(OR)
@@ -51,4 +51,5 @@
 
 ### Architecture
 ![img](img/LSTM-autoencoder.png)
+
 
