@@ -49,7 +49,4 @@
   2. Conditional/Unconditional decoders
   3. RMSProp converge faster than SGD with momentum
 
-### Architecture
-![img](img/DeepST.png)
-
 
