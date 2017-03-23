@@ -50,6 +50,6 @@
   3. RMSProp converge faster than SGD with momentum
 
 ### Architecture
-![img](img/LSTM-autoencoder.png)
+![img](img/DeepST.png)
 
 
