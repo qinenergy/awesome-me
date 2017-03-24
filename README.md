@@ -2,7 +2,7 @@
 A paper summary forum
 
 ## Kunjin
-1. [DNN-Based Prediction Model for Spatio-Temporal Data](http://dl.acm.org/citation.cfm?id=2997016) 
+1. [DNN-Based Prediction Model for Spatio-Temporal Data](ref/DNN-Based%20Prediction%20Model%20for%20Spatio-Temporal%20Data.md) 
 
 ## Qin
 1. [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/abs/1502.04681) 
