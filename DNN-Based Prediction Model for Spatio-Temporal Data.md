@@ -12,6 +12,8 @@
   2. The temporal properties can be modeled by RNNs. Nevertheless, when domain knowledge is available, a more compact structure can be used. In this paper, temporal closeness, period, and trend are taken into consideration by selecting appropriate timestamps using domain knowledge.
   3. Fusion of both ST data and global data completes the model.
   
+![](img/DeepST.png)
+
 + Inplementation
   1. UrbanFlow, a platform for visualizing and predicting crowd flows (both in and out) in cities is proposed in this paper. 
 
