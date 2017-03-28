@@ -3,6 +3,7 @@ A paper summary forum
 
 ## Kunjin
 1. [DNN-Based Prediction Model for Spatio-Temporal Data](ref/DNN-Based%20Prediction%20Model%20for%20Spatio-Temporal%20Data.md) 
+2. [A way out of the Odyssey analyzing and combining recent insights for LSTMS](ref/)
 
 ## Qin
 1. [Unsupervised Learning of Video Representations using LSTMs](ref/UnsupervisedLearningofVideoRepresentationsusingLSTMs.md) 
