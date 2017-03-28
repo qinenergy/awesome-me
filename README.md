@@ -8,7 +8,8 @@ A paper summary forum
 
 ## Qin
 ### Video Prediction
-1. [Unsupervised Learning of Video Representations using LSTMs](ref/UnsupervisedLearningofVideoRepresentationsusingLSTMs.md) 
+1. [Unsupervised Learning of Video Representations using LSTMs](ref/UnsupervisedLearningofVideoRepresentationsusingLSTMs.md)
+2. [Pixel Recurrent Neural Networks](ref/Pixel%20Recurrent%20Neural%20Networks.md)
 ### General ML/DL
 1. [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp  Minima](ref/SharpMinima.md)
 2. [How (not) to Train your Generative Model: Scheduled Sampling,  Likelihood, Adversary?](ref/GenerativeModelObj.md)
