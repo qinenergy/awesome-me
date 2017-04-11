@@ -13,3 +13,4 @@ A paper summary forum
 ### General ML/DL
 1. [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp  Minima](ref/SharpMinima.md)
 2. [How (not) to Train your Generative Model: Scheduled Sampling,  Likelihood, Adversary?](ref/GenerativeModelObj.md)
+3. [dropout a simple way to prevent neural networks from overfitting](ref/dropout.md)
