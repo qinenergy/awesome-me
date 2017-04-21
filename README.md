@@ -10,3 +10,6 @@ A paper summary forum
 1. [Unsupervised Learning of Video Representations using LSTMs](ref/UnsupervisedLearningofVideoRepresentationsusingLSTMs.md) 
 2. [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp  Minima](ref/SharpMinima.md)
 3. [How (not) to Train your Generative Model: Scheduled Sampling,  Likelihood, Adversary?](ref/GenerativeModelObj.md)
+
+## Yandong
+1. [Accurate Single Stage Detector Using Recurrent Rolling Convolution](ref/AccurateSingleStageDetectorUsingRecurrentRollingConvolution.md)
